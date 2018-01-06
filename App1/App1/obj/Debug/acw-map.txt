@@ -1,0 +1,20 @@
+App1.DatePickerDialogFragment, App1;md5579855c995bdb073d8182511e793544c.DatePickerDialogFragment
+App1.DatePickerDialogFragment, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.DatePickerDialogFragment
+App1.DatePickerDialogFragment;md5579855c995bdb073d8182511e793544c.DatePickerDialogFragment
+app1.DatePickerDialogFragment;md5579855c995bdb073d8182511e793544c.DatePickerDialogFragment
+App1.MyDialogFragment, App1;md5579855c995bdb073d8182511e793544c.MyDialogFragment
+App1.MyDialogFragment, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MyDialogFragment
+App1.MyDialogFragment;md5579855c995bdb073d8182511e793544c.MyDialogFragment
+app1.MyDialogFragment;md5579855c995bdb073d8182511e793544c.MyDialogFragment
+App1.SecondFragment, App1;md5579855c995bdb073d8182511e793544c.SecondFragment
+App1.SecondFragment, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.SecondFragment
+App1.SecondFragment;md5579855c995bdb073d8182511e793544c.SecondFragment
+app1.SecondFragment;md5579855c995bdb073d8182511e793544c.SecondFragment
+App1.FirstFragment, App1;md5579855c995bdb073d8182511e793544c.FirstFragment
+App1.FirstFragment, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.FirstFragment
+App1.FirstFragment;md5579855c995bdb073d8182511e793544c.FirstFragment
+app1.FirstFragment;md5579855c995bdb073d8182511e793544c.FirstFragment
+App1.MainActivity, App1;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity, App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5579855c995bdb073d8182511e793544c.MainActivity
+App1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
+app1.MainActivity;md5579855c995bdb073d8182511e793544c.MainActivity
